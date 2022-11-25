@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daveragos
+- 👋 Hi, I’m Dawit Beyene
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science
 <!---
