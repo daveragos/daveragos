@@ -11,6 +11,9 @@ Ask me anything about...
 
 
 Reach out to me at...
+
+<a href="mailto:daveyeinde@gmail.com">
+  <img align="left" alt="Dave's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 <a href="https://www.linkedin.com/in/dawit-beyene-computer-geek/">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><a href="https://instagram.com/dave_ragos/">
