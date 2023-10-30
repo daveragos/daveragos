@@ -22,7 +22,7 @@ Reach out to me at...
 <br/>
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=daveragos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LeulWeb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,8 +38,8 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/daveragos">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveragos&theme=light&hide_langs_below=1" />
+<a href="https://github.com/LeulWeb">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeulWeb&theme=light&hide_langs_below=1" />
 </a>
 
 - 🔭 I’m currently working on Flutter
