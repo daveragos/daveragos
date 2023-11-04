@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/daveragos/daveragos/blob/main/code.gif?raw=true" width="450" height="300" />
 
 ## Hey, I'm [Dawit Beyene!](mailto:daveyeinde@gmail.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Views&color=blue&style=plastic" alt="daveragos" /> </a>
 
