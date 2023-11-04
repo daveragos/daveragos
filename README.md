@@ -35,17 +35,13 @@ Reach out to me at...
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><br>
-<br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&" alt="daveragos" /></p>
-
-<br/>
-<br/>
 
 <a href="https://github.com/daveragos">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveragos&theme=dark&hide_langs_below=1" />
 </a>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&" alt="daveragos" /></p>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Dart and Javascript
