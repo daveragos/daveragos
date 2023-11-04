@@ -37,6 +37,7 @@ Reach out to me at...
 
 <br>
 <br>
+<br>
 <a href="https://github.com/daveragos">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveragos&theme=dark&hide_langs_below=1" />
 </a>
@@ -44,7 +45,7 @@ Reach out to me at...
 <br>
 <p>
   <a href="https://github.com/daveragos">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&" alt="daveragos" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&theme=dark&" alt="daveragos" />
   </a>
   </p>
 
