@@ -35,13 +35,10 @@ Reach out to me at...
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagmawibabi&show_icons=true&theme=radical&locale=en&layout=compact" alt="dagmawibabi" /></p>
-<p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=dagmawibabi&show_icons=true&theme=radical&locale=en" alt="dagmawibabi" /></p>
-
 <br><br>
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagmawibabi&" alt="dagmawibabi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&" alt="daveragos" /></p>
 
 <br/>
 <br/>
