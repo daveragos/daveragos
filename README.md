@@ -54,7 +54,7 @@ Reach out to me at...
 - 👯 I’m looking to collaborate on Mobile Project
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Biblical things
 - 📫 How to reach me at daveyeinde@gmail.com
-- ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
+- ⚡ Fun fact: I'm a night owl.
 
 <br/>
 <br/>
