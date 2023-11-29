@@ -2,7 +2,7 @@
 
 ## Hey, I'm [Dawit Beyene!](mailto:daveyeinde@gmail.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Views&color=blue&style=plastic" alt="daveragos" /> </a>
 
-Flutter Developer from Addis Abeba, Ethiopia. I love building applications & discussing new product ideas.
+Flutter Developer from Addis Ababa, Ethiopia. I love building applications & discussing new product ideas.
 <br/>
 <br/>
 Ask me anything about...
