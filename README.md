@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/daveragos/daveragos/blob/main/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Dawit Beyene!](mailto:daveyeinde@gmail.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Views&color=blue&style=plastic" alt="daveragos" /> </a>
+## Hey👋👋👋, I'm [Dawit Beyene!](mailto:daveyeinde@gmail.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Views&color=blue&style=plastic" alt="daveragos" /> </a>
 
 Flutter Developer from Addis Ababa, Ethiopia. I love building applications & discussing new product ideas.
 <br/>
