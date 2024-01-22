@@ -1,11 +1,10 @@
-<img align="right" alt="GIF" src="https://github.com/daveragos/daveragos/blob/main/code.gif?raw=true" width="450" height="300" />
-
+<img align="right" alt="Master Head" src="https://assets-global.website-files.com/5ef9f09160a5c429970bc031/642815e98fbcbed931bfb3e6_Flutter%20Animations_Cover-p-1600.png" />
 <h1 align="center">Hi 👋, I'm Dawit Beyene</h1>
 <h3 align="center">A passionate Flutter developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Profile%20views&color=0e75b6&style=flat" alt="daveragos" /> </p>
+<img align="right" alt="GIF" src="https://github.com/daveragos/daveragos/blob/main/code.gif?raw=true" width="450" height="300" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daveragos" alt="daveragos" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Profile%20views&color=0e75b6&style=flat" alt="daveragos" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dave_ragos" target="blank"><img src="https://img.shields.io/twitter/follow/dave_ragos?logo=twitter&style=for-the-badge" alt="dave_ragos" /></a> </p>
 
