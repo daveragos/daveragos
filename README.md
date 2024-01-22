@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daveragos&show_icons=true&theme=radical&locale=en" alt="daveragos" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=daveragos" alt="daveragos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaGoose" alt="daveragos" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&" alt="daveragos" /></p>
 
