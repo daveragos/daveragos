@@ -1,60 +1,35 @@
 <img align="right" alt="GIF" src="https://github.com/daveragos/daveragos/blob/main/code.gif?raw=true" width="450" height="300" />
 
-## Hey👋👋👋, I'm [Dawit Beyene!](mailto:daveyeinde@gmail.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Views&color=blue&style=plastic" alt="daveragos" /> </a>
+<h1 align="center">Hi 👋, I'm Dawit Beyene</h1>
+<h3 align="center">A passionate Flutter developer from Ethiopia</h3>
 
-Flutter Developer from Addis Ababa, Ethiopia. I love building applications & discussing new product ideas.
-<br/>
-<br/>
-Ask me anything about...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Profile%20views&color=0e75b6&style=flat" alt="daveragos" /> </p>
 
-<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daveragos" alt="daveragos" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/dave_ragos" target="blank"><img src="https://img.shields.io/twitter/follow/dave_ragos?logo=twitter&style=for-the-badge" alt="dave_ragos" /></a> </p>
 
-Reach out to me at... 
+- 🌱 I’m currently learning **NodeJs, Python, Laravel**
 
-<a href="mailto:daveyeinde@gmail.com">
-  <img align="left" alt="Dave's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
-<a href="https://www.linkedin.com/in/dawit-beyene-computer-geek/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="https://instagram.com/dave_ragos/">
-  <img align="left" alt="Dave's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br/>
-<br/>
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=daveragos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+- 💬 Ask me about **Flutter, Dart, Mobile Dev**
 
-#### Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 📫 How to reach me **daveyeinde@gmail.com**
 
-#### Tools and Frameworks
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- ⚡ Fun fact **I am a Night Owl**
 
-<br>
-<br>
-<br>
-<a href="https://github.com/daveragos">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveragos&theme=dark&hide_langs_below=1" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/daveragos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/daveragos" height="30" width="40" /></a>
+<a href="https://twitter.com/dave_ragos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dave_ragos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dave-ragoose/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dave-ragoose/" height="30" width="40" /></a>
+</p>
 
-<br>
-<p>
-  <a href="https://github.com/daveragos">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&theme=dark&" alt="daveragos" />
-  </a>
-  </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Dart and Javascript
-- 👯 I’m looking to collaborate on Mobile Project
-- 💬 Apart from tech you can Ask me about Movies, TV Shows and Biblical things
-- 📫 How to reach me at daveyeinde@gmail.com
-- ⚡ Fun fact: I'm a night owl.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daveragos&show_icons=true&locale=en&layout=compact" alt="daveragos" /></p>
 
-<br/>
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daveragos&show_icons=true&locale=en" alt="daveragos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&" alt="daveragos" /></p>
+
