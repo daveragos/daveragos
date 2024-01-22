@@ -29,7 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daveragos&show_icons=true&locale=en&layout=compact" alt="daveragos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daveragos&show_icons=true&theme=radical&locale=en" alt="daveragos" /></p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daveragos&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=daveragos&repo=github-readme-stats" alt="daveragos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&" alt="daveragos" /></p>
 
