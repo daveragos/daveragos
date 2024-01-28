@@ -34,8 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daveragos&show_icons=true&theme=radical&locale=en" alt="daveragos" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaGoose&layout=compact&theme=radical&locale=en" alt="daveragos" /></p>
-
-
-
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveragos&theme=radical" alt="daveragos" /></p>
