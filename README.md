@@ -6,7 +6,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/daveragos/daveragos/blob/main/code.gif?raw=true" width="450" height="300" />
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveragos&label=Profile%20views&color=0e75b6&style=flat" alt="daveragos" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dave_ragos" target="blank"><img src="https://img.shields.io/twitter/follow/dave_ragos?logo=twitter&style=for-the-badge" alt="dave_ragos" /></a> </p>
