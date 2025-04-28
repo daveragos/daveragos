@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **daveyeinde@gmail.com**
 
-- ⚡ Fun fact **I have so many unfinisherd proje**
+- ⚡ Fun fact **I have so many unfinished proje**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
